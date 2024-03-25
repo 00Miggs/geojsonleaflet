@@ -1,8 +1,6 @@
-# helloleaflet
+# GeoJSON Leaflet
 
-following the quick start at a very late time which I would like to apologize for since I had private matters that needed to be handled first.
-Using this guide from leaflet: 
+very late but very rewarding learning GeoJSON Leaflet and general GIS Programming 
 
-https://leafletjs.com/examples/quick-start/
+ https://leafletjs.com/examples/geojson/
 
-# View the Webpage You can view the webpage I created at https://00Miggs.github.io/helloleaflet/.
